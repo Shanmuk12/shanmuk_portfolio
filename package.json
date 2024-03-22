@@ -1,0 +1,48 @@
+{
+  "name": "personal-page",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.6",
+    "@googlemaps/js-api-loader": "^1.15.1",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.10",
+    "@mui/styles": "^5.11.9",
+    "@mui/x-date-pickers": "^5.0.19",
+    "@next/font": "13.1.6",
+    "@sendgrid/mail": "^7.7.0",
+    "@splidejs/react-splide": "^0.7.12",
+    "@types/js-cookie": "^3.0.3",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.67",
+    "@types/react-dom": "18.0.11",
+    "date-fns": "^2.29.3",
+    "date-fns-tz": "^2.0.0",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "formik": "^2.2.9",
+    "js-cookie": "^3.0.1",
+    "next": "13.1.6",
+    "notistack": "^2.0.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-gtm-module": "^2.0.11",
+    "react-scroll": "^1.8.9",
+    "sharp": "^0.31.3",
+    "tss-react": "^4.6.1",
+    "typescript": "5.4.3",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.52.0",
+    "@types/react-gtm-module": "^2.0.1"
+  }
+}

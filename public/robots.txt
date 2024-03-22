@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Allow: /pt
+
+# Host
+Host: https://www.leonardojacomussi.com
+
+# Sitemaps
+Sitemap: https://www.leonardojacomussi.com/sitemap.xml

@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "description": "Olá, bem-vindo à minha página pessoal! Me chamo Leonardo Jacomussi e sou Engenheiro de Software."
+  },
+  "backToTop": "Voltar para o topo",
+  "header": {
+    "services": "Serviços",
+    "aboutMe": "Sobre mim",
+    "qualifications": "Qualificações",
+    "portfolio": "Portifólio",
+    "contact": "Contato",
+    "changeTheme": "Mudar tema",
+    "language": "Idioma",
+    "portuguese": "Português",
+    "english": "Inglês"
+  },
+  "footer": {
+    "copy": "© $YEAR - Leonardo Jacomussi",
+    "coffee": "Compre um ☕ para mim!"
+  },
+  "404": {
+    "title": "Página não encontrada",
+    "content": "Esta página não pôde ser encontrada.",
+    "btnGoToHome": "Ir para a página principal"
+  },
+  "500": {
+    "title": "Erro no servidor",
+    "content": "Ocorreu um erro no servidor.",
+    "btnGoToHome": "Ir para a página principal"
+  },
+  "home": {
+    "main": {
+      "hello": "Oi, eu sou o Leonardo",
+      "subtitle": "Engenheiro de Software",
+      "description": "Adoro aprender coisas novas e sou apaixonado por tecnologia e soluções criativas para resolver problemas do mundo real.",
+      "btnAboutMe": "Sobre Mim",
+      "btnPortifolio": "Portifólio"
+    },
+    "services": {
+      "title": "SERVIÇOS",
+      "subtitle": "Serviços que ofereço",
+      "frontEnd": "Front-End",
+      "frontEndDescription": "Construção de telas responsivas, cross-platform, com as melhores práticas de SEO, acessibilidade e fluidez  para a melhor experiência do usuário a partir de um design previamente fornecido.",
+      "backEnd": "Back-End",
+      "backEndDescription": "Construção de API RESTful em TypeScript com Back-End Serverless e banco de dados NoSQL da AWS ou GCP.",
+      "UIDesign": "UI Design",
+      "UIDesignDescription": "Construção de wire frames, design systems e protótipos digitais com foco no usuário, design e navegabilidade.",
+      "IoTSolutions": "Soluções IoT",
+      "IoTSolutionsDescription": "Consultoria em arquitetura de nuvem para sistemas IoT: segurança e autenticação de sensores, comunicação bidirecional via protocolo MQTT,  BaaS (Back-end as a Service) banco de dados realtime e dashboards interativos de acompanhamento dos dados.\nDesenvolvimento de software para Linux embarcado e processamento de dados realtime em Python 3.",
+      "acousticalEng": "Engenharia Acústica",
+      "acousticalEngDescription": "Desenvolvimento de scripts, automação de tarefas e/ou soluções completas para medições acústicas, processamento digital de sinais e DataViz (visualização de dados) de acordo com normas nacionais e internacionais.",
+      "others": "Outros",
+      "othersDescription": "Deixe-me conhecer melhor o seu problema, estou aberto a novas abordagens para desenvolver novas soluções."
+    },
+    "about": {
+      "title": "ENGENHEIRO DE SOFTWARE",
+      "subtitle": "Sobre mim",
+      "technology": "Tecnologias",
+      "description1": "Engenheiro de software com 3 anos de experiência em desenvolvimento web full-stack e software embarcado.",
+      "description2": "Graduado em Engenharia Acústica, com uma sólida base de lógica e de resolução de problemas. Além de cursos profissionalizantes, atualmente curso graduação em Ciência da Computação buscando aprimoramento na área.",
+      "description3": "Adoro aprender coisas novas e sou apaixonado por tecnologia e soluções criativas para resolver problemas do mundo real.",
+      "nextjs": "Next JS",
+      "reactjs": "React JS",
+      "javascript": "Javascript",
+      "typescript": "Typescript",
+      "html": "HTML",
+      "css": "CSS",
+      "emotion": "Emotion",
+      "figma": "Figma",
+      "prismic": "Prismic",
+      "mui": "MUI Material",
+      "nodejs": "Node JS",
+      "python": "Python",
+      "iLiveIn": "Moro em",
+      "local": "Santa Maria, RS",
+      "experience": "Experiência",
+      "timeExperience": "$NUM anos",
+      "age": "Idade",
+      "myAge": "$NUM anos"
+    },
+    "qualifications": {
+      "title": "QUALIFICAÇÕES",
+      "subtitle": "Experiência",
+      "work": {
+        "harmonia": {
+          "title": "Harmonia",
+          "timeTotal": "$NUMYEAR anos e $NUMMONTHS meses",
+          "local": "São Paulo, São Paulo, Brasil",
+          "assignments": {
+            "eng": {
+              "title": "Engenheiro de Software",
+              "period": "Tempo integral",
+              "team": "Time de Inovação",
+              "time": "jan de 2020 - o momento"
+            },
+            "intern": {
+              "title": "Estágio",
+              "period": "Tempo integral",
+              "team": "Time de Inovação | Laboratório de Acústica",
+              "time": "jan de 2020 - dez de 2020 | 1 ano"
+            }
+          }
+        }
+      },
+      "education": {
+        "title": "Formação",
+        "ufsm": {
+          "title": "Universidade Federal de Santa Maria",
+          "time": "2014 - 2020",
+          "local": "Santa Maria, Rio Grande do Sul, Brasil",
+          "course": "Graduação, Engenharia Acústica",
+          "period": "Tempo integral"
+        },
+        "descomplica": {
+          "title": "Descomplica Faculdade Digital",
+          "time": "2023 - 2026",
+          "local": "Santa Maria, Rio Grande do Sul, Brasil",
+          "course": "Graduação, Ciência da Computação",
+          "period": "EaD"
+        }
+      },
+      "courses": {
+        "title": "Cursos",
+        "meta_frontend": {
+          "title": "Meta",
+          "type": "Cursos livres",
+          "course": "Meta Front-End Developer Professional",
+          "time": "abr 2023 - o momento"
+        },
+        "rocketseat": {
+          "title": "Rocketseat",
+          "type": "Cursos livres",
+          "course": "Explorer",
+          "time": "fev 2023 - o momento"
+        },
+        "udemy": {
+          "title": "Udemy",
+          "type": "Cursos livres",
+          "courses": {
+            "firebase": {
+              "title": "Firebase na prática",
+              "duration": "12 horas",
+              "time": "mar de 2021"
+            },
+            "modernWeb": {
+              "title": "Web moderno",
+              "duration": "89,5 horas",
+              "time": "mar de 2021"
+            }
+          }
+        }
+      }
+    },
+    "portfolio": {
+      "title": "PORTIFÓLIO",
+      "subtitle": "Projetos",
+      "otoh": {
+        "title": "OTOH",
+        "description1": "A OTOH é um serviço de monitoramento sonoro inteligente IoT oferecido pela Harmonia. Neste projeto sou responsável pelo desenvolvimento Web Fullstack e programação dos sensores em sistema Linux embarcado.",
+        "description2": "Como parte do Time de Inovação, pude contribuir não somente no desenvolvimento técnico, mas em todas as etapas da concepção do serviço, desde o benchmark de mercado, design de serviço/produto até a concepção dos protótipos físicos e digitais.",
+        "award": {
+          "title": "Projeto premiado",
+          "award1": "Vencedor da 8ª edição do Prêmio Connected Smart Cities na categoria Negócios Pré-Operacionais.",
+          "award2": "Eleita a 2º melhor startup do 24º prêmio CBIC de Inovação e Sustentabilidade.",
+          "callToAction": "Saiba mais"
+        },
+        "learnMore": "Conheça o projeto"
+      }
+    },
+    "contact": {
+      "title": "CONTATO",
+      "subtitle": "Vamos Criar Algo Juntos",
+      "form": {
+        "title": "Preencha o Formulário",
+        "name": "Seu Nome Completo",
+        "email": "Endereço de E-mail",
+        "message": "Sua Mensagem",
+        "bntSubmit": "Enviar Mensagem"
+      }
+    }
+  },
+  "emails": {
+    "contact": {
+      "subject": "Mensagem recebida",
+      "hello": "Olá,",
+      "intro": "Recebi a sua mensagem pelo meu site, em breve retornarei o contado pelo e-mail informado.",
+      "messageReceived": "Mensagem recebida",
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "sentIn": "Enviado em",
+      "dontReply": "Não responda este email",
+      "bestRegards": "Atenciosamente",
+      "feedback": {
+        "success": "Mensagem enviada com sucesso!",
+        "unexpectedError": "Erro inesperado, por favor tente novamente mais tarde.",
+        "codeError": "Erro: code - (erro desconhecido).",
+        "nameIsRequired": "O nome é obrigatório",
+        "emailIsRequired": "O e-mail é obrigatório",
+        "emailIsInvalid": "Endereço de e-mail inválido",
+        "messageIsRequired": "A mensagem é obrigatória",
+        "messageIsInvalid": "Mensagem muito curta (mínimo de 25 caracteres)",
+        "checkInfos": "Por favor, verifique as informações fornecidas"
+      }
+    }
+  }
+}

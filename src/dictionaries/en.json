@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "description": "Hi, welcome to my personal page! My name is Vangapandu Shanmuka rao and I am a Software Engineer."
+  },
+  "backToTop": "Back to the top",
+  "header": {
+    "services": "Services",
+    "aboutMe": "About me",
+    "qualifications": "Qualifications",
+    "portfolio": "Portfolio",
+    "contact": "Contact Me",
+    "changeTheme": "Change theme",
+    "language": "Language",
+    "english": "English"
+  },
+  "footer": {
+    "copy": "© $YEAR - Vangapandu Shanmuka Rao",
+    "coffee": "Buy me a ☕!"
+  },
+  "404": {
+    "title": "Page not found",
+    "content": "This page could not be found.",
+    "btnGoToHome": "Go to Home"
+  },
+  "500": {
+    "title": "Server-side error",
+    "content": "Server-side error occurred.",
+    "btnGoToHome": "Go to Home"
+  },
+  "home": {
+    "main": {
+      "hello": "Hey, I'm Shanmuk ",
+      "subtitle": "Software Engineer",
+      "description": "I love learning new things and am passionate about technology and creative solutions to solve real world problems.",
+      "btnAboutMe": "About Me",
+      "btnPortifolio": "Portfolio"
+    },
+    "services": {
+      "title": "SERVICES",
+      "subtitle": "Services I offer",
+      "frontEnd": "Front-End",
+      "frontEndDescription": "Building responsive React websites with Node.js for backends, prioritizing SEO, accessibility, and a smooth user experience. I can also leverage Rust's performance for demanding applications.",
+      "backEnd": "Back-End",
+      "backEndDescription": "Building performant backends with Rust & TypeScript, leveraging NoSQL for data and exposing a well-defined RESTful API, ensuring a seamless developer experience.",
+      "UIDesign": "Blockchain",
+      "UIDesignDescription": "Build a web3 DApp using Ethereum's EVM and Solana, focusing on leveraging both platforms' capabilities to create a robust decentralized application.",
+      "IoTSolutions": "AppDevelopment",
+      "IoTSolutionsDescription": "Build apps with React Native and Kotlin for strong features, simplifying development with Figma's user-friendly design tools.",
+      "acousticalEng": "LogoDesigning",
+      "acousticalEngDescription": "I build unique, memorable logo identities tailored to resonate with your audience. With tools like Figma, I ensure attention to detail and creativity, leaving a lasting impression for your brand.",
+      "others": "Others",
+      "othersDescription": "Let me know more about your problem, I am open to new approaches to develop new solutions."
+    },
+    "about": {
+      "title": "SOFTWARE ENGINEER",
+      "subtitle": "About Me",
+      "technology": "Technologies",
+      "description1": "I am a passionate web development and blockchain enthusiast, dedicated to exploring the realms of technology and innovation. With a focus on building Web3 blockchain applications.",
+      "description2": "Currenlty Pursuing BTech in Computer Science and Systems Engineering at Lendi Institute of Engineering",
+      "description3": "I love learning new things and am passionate about technology and creative solutions to solve real world problems.",
+      "nextjs": "Next JS",
+      "reactjs": "React JS",
+      "javascript": "Javascript",
+      "typescript": "Typescript",
+      "html": "HTML",
+      "css": "CSS",
+      "emotion": "Docker",
+      "figma": "Solidity",
+      "prismic": "Java",
+      "mui": "Github",
+      "nodejs": "Node JS",
+      "python": "Python",
+      "iLiveIn": "I live in",
+      "local": "Vizianagaram, India",
+      "experience": "Experience",
+      "timeExperience": "1 year",
+      "age": "Age",
+      "myAge": "20 years old"
+    },
+    "qualifications": {
+      "title": "QUALIFICATIONS",
+      "education": {
+        "title": "Education",
+        "ufsm": {
+          "title": "Narayana Junior College - India",
+          "time" : "2019-2020",
+          "course": "Intermediate - MPC",
+          "period": "Full-time"
+        },
+        "descomplica": {
+          "title": "Lendi Institute of Engineering and Technology - India",
+          "time": "2021-2025",
+          "course": "B-Tech in Computer Science and Systems engineering",
+          "period": "Distance learning"
+        }
+      },
+      "courses": {
+        "title": "Experience",
+        "meta_frontend": {
+          "title": "Google Andriod Developer",
+          "type": "Virtual Internship in collabration with Google Developers and in association with AICTE.",
+          "course": "Sep 2023 - Nov 2023"
+        },
+        "rocketseat": {
+          "title": "Salesforce developer",
+          "type": "Virtual internship in collabration with Smart Internz and Trailhead.",
+          "course": "Aug 2023 - Oct 2023"
+        },
+        "alteryx": {
+          "title": "Data analysis and process autmation",
+          "type": "wroked as an data analyst and process automation analyst at Indian alteryx.",
+          "course": "May 2023 - July 2023"
+        },
+        "udemy": {
+          "title": "Web Application Pentester",
+          "type": "Interned as a Web Pentester and Cyberthreat Analyst at Indian Servers.",
+          "course": "Nov 2022 - Feb 2023"
+        }
+      }
+    },
+    
+      "portfolio": {
+        "title": "PORTFOLIO",
+        "subtitle": "Projects",
+        "otoh": {
+          "title": "GenreGenius",
+          "description1": "Genregenius is a Python-based movie recommendation system hosted on GitHub. It utilizes pandas, scikit-learn, and NumPy for data processing and machine learning.",
+          "description2": "With an interactive web interface powered by Streamlit, it offers personalized movie suggestions tailored to user genre preferences.",
+          "award": {
+            "title": "Key Highlights",
+            "award1": "Unlock the power of Genregenius as it curates a tailored list of 10 movies spanning various genres.",
+            "award2": "Transform your browsing experience with the Genregenius Chrome extension with live recommendations",
+            "callToAction": "FutureScope"
+          },
+          "learnMore": "GitHub link"
+        }
+      },
+      "portfolio2": {
+        "title": "PORTFOLIO ",
+        "subtitle": "Projects",
+        "otoh": {
+          "title": "Nova-ResumeAI",
+          "description1": "Nova-AI Resume utilizes Gensim NLP to generate tailored questions from resumes, while also pinpointing errors and providing personalized suggestions, streamlining the resume refinement process with efficiency and precision.",
+          "description2": " With Django for the backend, and frontends using React.js, it ensures seamless user interaction, while deployment via Docker and github. ",
+          "award": {
+            "title": "Key Highlights",
+            "award1": "NovAI Resume offers personalized question generation, tailored to individual resumes, with up to 30 insightful questions and sample answers",
+            "award2": "NovAI Resume with multi-language support ensures inclusivity for non-native English speakers, while integrating a job recommender system offers personalized job recommendations aligned with users' skills and career goals.",
+            "callToAction": "FutureScope"
+          },
+          "learnMore": "GitHub link"
+        }
+      },
+      "portfolio3": {
+        "title": "PORTFOLIO ",
+        "subtitle": "Projects",
+        "otoh": {
+          "title": "MELA",
+          "description1": " MLEA , a Multi-Language Emergency Assistant, breaks down language barriers during medical crises with its web and app solutions built on React and React Native ,leveraging PostgreSQL for backend stability.",
+          "description2": "It translates user issues into doctor-specific languages in real time using Hugging Face's MarianMT, ensuring prompt and accurate medical assistance.",
+          "award": {
+            "title": "Key Highlights",
+            "award1": "MLEA eliminates language barriers in medical emergencies through real-time translation, ensuring effective communication between users and medical professionals regardless of language proficiency.",
+            "award2": "Expanding MLEA into a fully functional mobile application and deploying it on Google Play with multi-language support.",
+            "callToAction": "FutureScope"
+          },
+          "learnMore": "GitHub link"
+        }
+      },
+      "portfolio4": {
+        "title": "PORTFOLIO ",
+        "subtitle": "Projects",
+        "otoh": {
+          "title": "Shop-''less''-AI",
+          "description1": "Hyper-personalized product recommendation system by Geni AI and AllenNLP, delivering tailored suggestions based on user prompts.",
+          "description2": "Faster shopping with delivering precise recommendations across various categories on products, reducing shopping time.",
+          "award": {
+            "title": "Key Highlights",
+            "award1": "Ensuring cost-effectiveness by comparing prices of the same product across various websites, helping users find the best deals.",
+            "award2": "Exapnding our Shop-''less''-AI by hosting it on our personal domain and making it public amplifies user engagement and market presence, offering customized experiences",
+            "callToAction": "FutureScope"
+          },
+          "learnMore": "GitHub link"
+        }
+      },
+    
+    "contact": {
+      "title": "CONTACT",
+      "subtitle": "Let's create something together",
+      "form": {
+        "title": "Fill The Form",
+        "name": "Your Full Name",
+        "email": "E-mail address",
+        "message": "Your Message",
+        "bntSubmit": "Send Message"
+      }
+    }
+  },
+  "emails": {
+    "contact": {
+      "subject": "Message received",
+      "hello": "Hello",
+      "intro": "I received your message through my site, and will contact you by e-mail shortly.",
+      "messageReceived": "Message received",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "sentIn": "Sent in",
+      "dontReply": "Don't reply to this email",
+      "bestRegards": "Best regards",
+      "feedback": {
+        "success": "Message sent successfully!",
+        "unexpectedError": "Unexpected error, please try again later.",
+        "codeError": "Error: code - (unknown error).",
+        "nameIsRequired": "Name is required",
+        "emailIsRequired": "Email is required",
+        "emailIsInvalid": "Invalid email address",
+        "messageIsRequired": "Message is required",
+        "messageIsInvalid": "Very short message (minimum 25 characters)",
+        "checkInfos": "Please check the information provided"
+      }
+    }
+  }
+}
