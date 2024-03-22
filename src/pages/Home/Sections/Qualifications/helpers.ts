@@ -1,7 +1,7 @@
 export const downloadCV = () => {
   const xhr: XMLHttpRequest = new XMLHttpRequest();
   xhr.responseType = "blob";
-  xhr.open("GET", "/assets/docs/Leonardo Jacomussi - Resume.zip");
+  xhr.open("GET", "/assets/docs/Shanmuk_resume.pdf");
   xhr.send();
   xhr.onload = (event: ProgressEvent<EventTarget>): void => {
     if (event.currentTarget["status"] === 200) {
