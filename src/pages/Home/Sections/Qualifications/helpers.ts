@@ -11,7 +11,7 @@ export const downloadCV = () => {
       const newURL = window.URL.createObjectURL(blob);
       document.body.appendChild(link);
       link.href = newURL;
-      link.download = `Leonardo Jacomussi - Resume.zip`;
+      link.download = `Shanmuk_resume.pdf`;
       link.click();
       document.body.removeChild(link);
       window.URL.revokeObjectURL(newURL);
