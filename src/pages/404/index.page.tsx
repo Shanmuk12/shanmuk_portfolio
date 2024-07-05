@@ -32,24 +32,24 @@ const NotFoundPage: NextPage<NotFoundProps> = ({ dictionary }): JSX.Element => {
   }, []);
 
  return (
-  <Fragment>
-    <Head>
-      <meta name="description" content={t("metadata.Description")} />
-      <title>{t("pageNotFound.title")}</title>
-    </Head>
-    <Container height={heightWindow}>
-      <Header t={t} />
-      <Content>
-        <h1>404 | {t("pageNotFound.message")}</h1>
-        <Link href="/">
-          <Button>{t("pageNotFound.returnHome")}</Button>
-        </Link>
-      </Content>
-      <Footer t={t} />
-    </Container>
-  </Fragment>
-);
-
+    <Fragment>
+      <Head>
+        <meta name="description" content={t("metadata.description")} />
+        <title>{t("404.title")}</title>
+      </Head>
+      <Container height={heightWindow}>
+        <Header t={t} />
+        <Content>
+          <h1>404 | {t("404.content")}</h1>
+          <Link href="/">
+            <Button>{t("404.btnGoToHome")}</Button>
+          </Link>
+        </Content>
+        <Footer t={t} />
+      </Container>
+    </Fragment>
+  );
+};
 export const getStaticProps: GetStaticProps = async ({ locale, ...props }): Promise<{ props: NotFoundStaticProps }> => {
   const dictionary = await dictionaries[locale]();
   return { props: { dictionary: dictionary } }
